@@ -1,3 +1,3 @@
 
-# abmall.com
+# https://abcmonboi.github.io/abmall/
 AB-ShopMall
